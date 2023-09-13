@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x15AWoV+Tv2QLVYSD0D9InvkyBeBAp1e3pVlkV7DQBV6bsDpcl9cWFQ2jNmyPHVlJg09NR4Q/Aypmrnr4rMEKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matel\\Desktop\\Programacion3\\semana5\\semana5_miercoles13.9\\Libreria_EF_Materializacion_Autor_tema\\Libreria_EF_Materializacion_Starter\\Libreria.LogicaNegocio\\Libreria.LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

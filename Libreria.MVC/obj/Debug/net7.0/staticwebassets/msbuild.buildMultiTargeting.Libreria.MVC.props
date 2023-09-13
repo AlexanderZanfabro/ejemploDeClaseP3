@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Libreria.MVC.props" />
+</Project>
